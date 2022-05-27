@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Nslhnatasvr/nslhnatasvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Front-End
+- 🌱 I’m currently learning Angular
+- 👯 I am trying to improve myself by doing projects.
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)
+
