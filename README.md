@@ -8,10 +8,15 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nslhnatasvr&theme=vue&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nslhnatasvr&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nslhnatasvr&theme=vue&show_icons=true)
+
 <br>
 <br>
+
+.....................................................................................................................................................................................................................................................
+
+
 
 ### 📩 Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr)
