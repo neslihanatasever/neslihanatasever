@@ -24,3 +24,6 @@
   <a href="https://medium.com/@nslhnatasvrrrr" rel="nofollow">
     <img src="https://camo.githubusercontent.com/070fd09f8ffd360ff40e6c2112efb52e6285d65c87d3707e377a9f59f61bcd33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d776869746526636f6c6f723d303731413243" alt="Medium" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;color=071A2C" style="max-width: 100%;">
   </a>
+<br>
+<br>
+<img src="https://i.pinimg.com/564x/3f/66/9a/3f669ad35342b71f07db2daa0c4ae7c5.jpg" width="auto">
