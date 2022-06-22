@@ -1,5 +1,4 @@
-### Hi there, I'm Neslihan :paw_prints:
-
+### Hi there, I'm Neslihan 
 
 - I’m currently working on Front-End
 - I’m interested in HTML,CSS,ANGULAR.  
