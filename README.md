@@ -1,8 +1,8 @@
 
 <div align="center">
     <samp><h2><b>About</b></h2></samp>
-    <img src="https://i.pinimg.com/564x/71/1e/c7/711ec78cc8841456632f68587d2543cc.jpg"
-        width="300px" />
+    <img src="https://i.pinimg.com/originals/c4/96/56/c49656042d417189f6d0f89af1fda4ca.gif"
+        width="250px" />
     <br />
   
   <samp> <i>I'm Neslihan </i> </samp> <br />
