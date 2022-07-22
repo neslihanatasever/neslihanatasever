@@ -6,7 +6,7 @@
     <br />
   
   <samp> <i>I'm Neslihan </i> </samp> <br />
-    <samp> 👨‍💻 <i> Frontend Developer </i> </samp> <br />
+    <samp> 👨‍💻 <i> Jr. Frontend Developer </i> </samp> <br />
     <samp></samp> <br />
   
   
