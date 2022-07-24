@@ -4,8 +4,8 @@
         width="250px" />
     <br />
   
-  <samp> <i>I'm Neslihan </i> </samp> <br />
-    <samp> 👨‍💻 <i> Jr. Frontend Developer </i> </samp> <br />
+  <samp> I'm Neslihan </samp> <br />
+    <samp>  Jr. Frontend Developer </samp> <br />
     <samp></samp> <br />
   
   
@@ -20,11 +20,13 @@
   
 ### Connect with me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@nslhnatasvrrrr)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)](https://twitter.com/nslhnatasvr) 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+[![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-D8BFD8?style=flat-quare&labelColor=D8BFD8&logo=Medium&logoColor=white&link=link)](https://medium.com/@nslhnatasvrrrr)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-FFC0CB?style=flat-quare&labelColor=FFC0CB&logo=twitter&logoColor=white&link=link)](https://twitter.com/nslhnatasvr) 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-9A8181?style=flat-quare&labelColor=9A8181&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/playlist?list=PLoo-KNKYHElOuFYUfLXre_di_7ofBftJM) 
+<hr>
+<a href="https://github.com/nslhnatasvr/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nslhnatasvr">
 </a>
 
