@@ -25,18 +25,21 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-D8BFD8?style=flat-quare&labelColor=D8BFD8&logo=Medium&logoColor=white&link=link)](https://medium.com/@nslhnatasvrrrr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-FFC0CB?style=flat-quare&labelColor=FFC0CB&logo=twitter&logoColor=white&link=link)](https://twitter.com/nslhnatasvr) 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-9A8181?style=flat-quare&labelColor=9A8181&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/playlist?list=PLoo-KNKYHElOuFYUfLXre_di_7ofBftJM) 
-<hr>
-<a href="https://github.com/nslhnatasvr/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nslhnatasvr">
-</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats) 
+
+
+    
+<a href="https://github.com/nslhnatasvr/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=nslhnatasvr&color=9A8181">
+</a>
 
 
 <!-- #### 📈 Github Stats
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nslhnatasvr&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr&theme=omni)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslhnatasvr&theme=omni&show_icons=true) 
  
