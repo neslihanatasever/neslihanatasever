@@ -1,12 +1,12 @@
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/c4/96/56/c49656042d417189f6d0f89af1fda4ca.gif"
+    <!-- <img src="https://i.pinimg.com/originals/c4/96/56/c49656042d417189f6d0f89af1fda4ca.gif"
         width="250px" />
-    <br />
+    <br /> -->
   
   <samp> I'm Neslihan </samp> <br />
-    <samp>  Jr. Frontend Developer </samp> <br />
-    <samp></samp> <br />
+    <samp>  Jr. Software Developer </samp> <br />
+    <samp></samp>
   
   
  <div> 
@@ -22,12 +22,15 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-D8BFD8?style=flat-quare&labelColor=D8BFD8&logo=Medium&logoColor=white&link=link)](https://medium.com/@nslhnatasvrrrr)
+
+ 
+ 
+
+
+<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-D8BFD8?style=flat-quare&labelColor=D8BFD8&logo=Medium&logoColor=white&link=link)](https://medium.com/@nslhnatasvrrrr) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-FFC0CB?style=flat-quare&labelColor=FFC0CB&logo=twitter&logoColor=white&link=link)](https://twitter.com/nslhnatasvr) 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-9A8181?style=flat-quare&labelColor=9A8181&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/playlist?list=PLoo-KNKYHElOuFYUfLXre_di_7ofBftJM) 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats) 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-9A8181?style=flat-quare&labelColor=9A8181&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/playlist?list=PLoo-KNKYHElOuFYUfLXre_di_7ofBftJM)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats) -->
 
 
     
