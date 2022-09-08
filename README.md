@@ -4,7 +4,7 @@
         width="250px" />
     <br /> -->
   
-  <samp> I'm Neslihan </samp> <br />
+  <samp> Neslihan Atasever </samp> <br />
     <samp>  Jr. Software Developer </samp> <br />
     <samp></samp>
   
