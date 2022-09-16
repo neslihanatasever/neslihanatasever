@@ -23,6 +23,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nslhnatasvr&theme=onedark_duo&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
  
 
