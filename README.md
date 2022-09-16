@@ -22,9 +22,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
+[![Wakatime Badge](https://img.shields.io/badge/-Wakatime-f4cbbd?style=flat-quare&labelColor=f4cbbd&logo=wakatime&logoColor=white&link=link)](https://wakatime.com/@Neslihan)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nslhnatasvr&theme=onedark_duo&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
+<!-- ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Neslihan&hide_title=true&hide_border=true&langs_count=5&text_color=FFE4C4)
+<details> -->
  
 
 
@@ -36,7 +39,7 @@
 
     
 <a href="https://github.com/nslhnatasvr/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=nslhnatasvr&color=FFE4C4">
+  <img src="https://komarev.com/ghpvc/?username=nslhnatasvr&color=f4cbbd">
 </a>
 
 
