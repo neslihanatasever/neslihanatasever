@@ -36,7 +36,7 @@
 
     
 <a href="https://github.com/nslhnatasvr/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=nslhnatasvr&color=9A8181">
+  <img src="https://komarev.com/ghpvc/?username=nslhnatasvr&color=FFE4C4">
 </a>
 
 
