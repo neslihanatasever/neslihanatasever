@@ -1,7 +1,8 @@
 
 <div align="center">
   <samp> Neslihan Atasever </samp> <br />
-    <samp>  Jr. Software Developer </samp> <br />
+    <samp>  Jr. Software Developer </samp> <br/>
+    <samp>  Html | Css | Javascript | Angular | Flutter | Dart </samp>
     <samp></samp>
  <div> 
  <br>
