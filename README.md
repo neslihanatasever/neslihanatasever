@@ -3,7 +3,7 @@
   <samp> Neslihan Atasever </samp> <br />
     <samp>  Jr. Frontend Developer </samp> <br/>
     <samp>  Html | Css | Javascript | Angular | Flutter | Dart </samp>
-    <samp></samp>
+    <samp></samp> 
  <div> 
  <br>
 
