@@ -2,7 +2,7 @@
 <div align="center">
   <samp> Neslihan Atasever </samp> <br />
     <samp>  Jr. Frontend Developer </samp> <br/>
-    <samp>  Html | Css | Javascript | Angular | Flutter | Dart </samp>
+    <samp>  Html | Css | Sass | Javascript | Angular </samp>
     <samp></samp> 
  <div> 
  <br>
