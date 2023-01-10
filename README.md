@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <samp> Neslihan Atasever </samp> <br />
-    <samp>  Jr. Frontend Developer </samp> <br/>
-    <samp>  Html | Css | Sass | Javascript | Angular </samp>
+    <samp> Frontend Developer </samp> <br/>
+    <samp>  I am doing freelance software business</samp> <br/>
+    <samp> I am developing myself in the field of frontend in the best way. </samp>
     <samp></samp> 
  <div> 
  <br>
