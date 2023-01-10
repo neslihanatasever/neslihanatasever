@@ -19,7 +19,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nslhnatasvr&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
-
-
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Csass%2Cjavascript%2Ctypescript%2Cangular%2Cvuedotjs&preset=magic-lake&shadow=true&width=70)
 
 
