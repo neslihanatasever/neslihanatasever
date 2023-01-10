@@ -14,8 +14,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nslhnatasvr&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
      
-![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Csass%2Cjavascript%2Ctypescript%2Cangular%2Cvuedotjs&preset=magic-lake&shadow=true&width=70)
+<div align="center">
+    <samp>Languages I have learned and am interested in</samp>
+<div> 
 
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Csass%2Cjavascript%2Ctypescript%2Cangular%2Cvuedotjs&preset=magic-lake&shadow=true&width=70)
+   
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
