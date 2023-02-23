@@ -2,7 +2,7 @@
  
 <div align="left">
     <samp> Hi, I'm Nesly </samp> <br/>
-    <samp> Frontend Developer </samp> <br/>
+    <samp> Junior Frontend Developer </samp> <br/>
     <samp> I'm doing freelance software business</samp> <br/>
     <samp> I'm developing myself in the field of frontend in the best way. </samp>
     <samp></samp> 
