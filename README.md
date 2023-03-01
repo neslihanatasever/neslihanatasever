@@ -1,6 +1,6 @@
 <!-- ![Header](github-header-image.png) --> 
  
-<div align="left">
+<div align="left"> 
     <samp> Hi, I'm Nesly </samp> <br/>
     <samp> Junior Frontend Developer </samp> <br/>
     <samp> I'm doing freelance software business</samp> <br/>
