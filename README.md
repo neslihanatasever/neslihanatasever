@@ -18,7 +18,6 @@
 <!-- ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Csass%2Cjavascript%2Ctypescript%2Cangular%2Cvuedotjs&preset=magic-lake&shadow=true&width=70)-->
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=quare&labelColor=black&logo=Github&logoColor=white&link=link)](https://github.com/Nslhnatasvr) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-black?style=flat-quare&labelColor=black&logo=wakatime&logoColor=white&link=link)](https://wakatime.com/@Neslihan)
  <a href="https://github.com/neslihanatasever/github-profile-views-counter">
