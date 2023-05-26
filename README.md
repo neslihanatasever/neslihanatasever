@@ -18,7 +18,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
-[![Wakatime Badge](https://img.shields.io/badge/-Wakatime-black?style=flat-quare&labelColor=black&logo=wakatime&logoColor=white&link=link)](https://wakatime.com/@Neslihan)
  <a href="https://github.com/neslihanatasever/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=neslihanatasever&color=000000">
 </a>
