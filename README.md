@@ -19,11 +19,9 @@
 
 <!-- ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Csass%2Cjavascript%2Ctypescript%2Cangular%2Cvuedotjs&preset=magic-lake&shadow=true&width=70)-->
 
-<div align="left"> 
-<samp> mini project warehouse  =>  https://github.com/orgs/neslyInc/repositories </samp>   
-<div>
+
     
-<br>
+
     
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/neslihan-atasever-287952211/)
  <a href="https://github.com/neslihanatasever/github-profile-views-counter">
