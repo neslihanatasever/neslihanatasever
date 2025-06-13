@@ -1,8 +1,6 @@
 <div align="left"> 
     <samp> Hi, I'm Nesly </samp> <br/>
-    <samp> Software Developer </samp> <br/>
-    <samp> - Currently working in the field of Web Development & Accessibility  </samp> <br>
-    <samp> - I'm developing myself in A11Y, doing manual tests, making sites accessible </samp>
+    <samp> Software Developer @ Binclusive | Accessibility For All! </samp> <br/> 
  <div> 
 <br>
 
